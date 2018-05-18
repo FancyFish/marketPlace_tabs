@@ -1,0 +1,16 @@
+Ejecutar:
+npm install -g ionic@latest
+
+ionic login
+//se ingresan datos de la cuenta de ionic
+instalar ssh
+//se presenta error en el ssh
+//ubicarse en la ruta. Buscar.ssh
+//configurar un key
+//	en git bash ir a la carpeta .ssh
+	ionic ssh setup
+PASAMOS A CONSOLA DE WINDOWS
+	ionic login
+	en la carpeta ssh sale este numero {1436370}
+git add .
+subir agithub
